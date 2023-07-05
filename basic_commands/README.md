@@ -43,7 +43,7 @@
 
 ### 6. Create consumer
 ```
-    .\bin\windows\kafka-console-consumer.bat --bootstrap-server localhost:9092 --topic <consumer-name> -from-beginning
+    .\bin\windows\kafka-console-consumer.bat --bootstrap-server localhost:9092 --topic <topic-name> -from-beginning
 ```
 
 ### 7. Stop Apache Kafka
